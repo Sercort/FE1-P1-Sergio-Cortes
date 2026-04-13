@@ -67,3 +67,17 @@ asegurar que el contenido sea legible evitar problemas de visualización.
 
 proposito:Adaptación a dispositivos móviles
 evaluacion: util pero se cambiaron palabras 
+
+prompt: Debes incorporar una sección de actividades destacadas utilizando tarjetas (cards).
+
+Cada tarjeta debe incluir:
+nombre del titular de tarjeta -numero de tarjeta -numero telefónico -ciudad-país
+nombre de la actividad,
+breve descripción,
+agrega una pequeña descripción
+algún elemento visual (ícono o imagen).
+agrega una imagen de valorant o de otros juegos
+
+propósito:Mejorar dettales finales 
+
+evaluacion: util pero cambiamos numero telefonicos y algunos dettales que estabas mal escrito 
