@@ -13,8 +13,13 @@
                 <h1>Juega en Línea</h1>
                 <ul>
                     <li><a href="#inicio">Inicio</a></li>
-                    <li><a href="#jugar">Jugar</a></li>
-                    <li><a href="#contacto">Contacto</a></li>
+                    <li><a href="#contrincantes">Contrincantes</a></li>
+                    <li><a href="#actividades">Actividades</a></li>
+                    <li><a href="#premios">Premios</a></li>
+                    <li><a href="#beneficios">Beneficios</a></li>
+                    <li><a href="#invitados">Invitados</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                    <li><a href="#contacto">Inscripción</a></li>
                 </ul>
             </div>
         </nav>
@@ -27,22 +32,80 @@
             <button onclick="alert('¡Funcionalidad básica!')">Comenzar a Jugar</button>
         </section>
 
-        <section class="features">
-            <h3>Características del Juego</h3>
-            <div class="feature-grid">
-                <div class="feature">
-                    <h4>Elige tu Rival</h4>
-                    <p>Selecciona a tu contrincante de una lista de jugadores disponibles.</p>
-                </div>
-                <div class="feature">
-                    <h4>Partidas Intensas</h4>
-                    <p>Enfréntate en batallas estratégicas y demuestra tu superioridad.</p>
-                </div>
-                <div class="feature">
-                    <h4>Recompensas</h4>
-                    <p>Gana puntos y sube de nivel con cada victoria.</p>
-                </div>
-            </div>
+        <section id="contrincantes" class="section">
+            <h3>Contrincantes y Juegos</h3>
+            <p>Elige entre diversos juegos para competir en un campeonato innovador:</p>
+            <ul>
+                <li><strong>Valorant:</strong> Compite con jugadores como AlexGamer, ShadowStrike y NeoBlitz.</li>
+                <li><strong>League of Legends:</strong> Enfréntate a ProPlayerX, MysticMage y ThunderBolt.</li>
+                <li><strong>Counter-Strike 2:</strong> Juega contra EliteSniper, QuickShot y Phantom.</li>
+            </ul>
+        </section>
+
+        <section id="actividades" class="section">
+            <h3>Actividades del Evento</h3>
+            <p>Participa en torneos intensos, sesiones de práctica y networking con otros gamers.</p>
+            <ul>
+                <li>Torneos individuales y por equipos.</li>
+                <li>Sesiones de entrenamiento con coaches profesionales.</li>
+                <li>Charlas sobre estrategias y técnicas avanzadas.</li>
+            </ul>
+        </section>
+
+        <section id="premios" class="section">
+            <h3>Premios</h3>
+            <p>¡El ganador se gana un almuerzo en un hotel a elección! Además, puntos de experiencia y reconocimientos.</p>
+        </section>
+
+        <section id="beneficios" class="section">
+            <h3>Beneficios de Asistir</h3>
+            <p>Este evento está diseñado para sacar el potencial de cada persona y ser algo innovador:</p>
+            <ul>
+                <li>Desarrolla habilidades estratégicas y de reacción.</li>
+                <li>Conecta con la comunidad gamer.</li>
+                <li>Gana experiencia en competiciones reales.</li>
+                <li>Oportunidad de ser descubierto por equipos profesionales.</li>
+            </ul>
+        </section>
+
+        <section id="invitados" class="section">
+            <h3>Invitados y Expositores</h3>
+            <p>Cuenta con la presencia de:</p>
+            <ul>
+                <li><strong>ProGamer Elite:</strong> Campeón internacional de Valorant.</li>
+                <li><strong>TechExpo:</strong> Expositor de equipos gaming de última generación.</li>
+                <li><strong>CoachMaster:</strong> Entrenador profesional de eSports.</li>
+            </ul>
+        </section>
+
+        <section id="faq" class="section">
+            <h3>Preguntas Frecuentes</h3>
+            <dl>
+                <dt>¿Cómo me inscribo?</dt>
+                <dd>Completa el formulario de contacto abajo.</dd>
+                <dt>¿Es gratuito?</dt>
+                <dd>Sí, la participación es gratuita.</dd>
+                <dt>¿Qué necesito?</dt>
+                <dd>Una PC o consola compatible y conexión a internet.</dd>
+            </dl>
+        </section>
+
+        <section id="contacto" class="section">
+            <h3>Inscripción y Contacto</h3>
+            <form>
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="game">Juego preferido:</label>
+                <select id="game" name="game">
+                    <option value="valorant">Valorant</option>
+                    <option value="lol">League of Legends</option>
+                    <option value="cs2">Counter-Strike 2</option>
+                </select>
+                <button type="submit">Inscribirse</button>
+            </form>
+            <p>Contacto: info@juegaenlinea.com | Tel: +123 456 7890</p>
         </section>
     </main>
 

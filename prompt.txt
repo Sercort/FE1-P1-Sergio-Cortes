@@ -37,3 +37,24 @@ proposito: mejorar la visualizacion de la pagina
  
 evaluacion: util
 
+prompt:
+3.
+Se requiere entregar más información para motivar la participación.
+
+Debes agregar nuevas secciones, por ejemplo:
+poner los nom,bres de los contrincantes y que juego jugaran valornat o otro juego que quieran realizar un campeonato 
+actividades del evento,
+ el ganador se gana un almuerzo en un hotel a elección 
+beneficios de asistir
+es para sacar el potencial de cada persona y que sea algo innovador 
+invitados o expositores,
+
+•
+preguntas frecuentes,
+
+•
+inscripción o contacto.
+
+proposito:Incorporación de contenido
+
+evaluacion:
