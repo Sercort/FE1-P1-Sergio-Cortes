@@ -57,4 +57,13 @@ inscripción o contacto.
 
 proposito:Incorporación de contenido
 
-evaluacion:
+evaluacion: util pero hubieron un cambios en algunas palabras 
+
+prompt:4. 
+El sitio será revisado principalmente desde celulares.
+
+Debes adaptar el diseño a pantallas pequeñas para que se puede ver de cualquier móvil
+asegurar que el contenido sea legible evitar problemas de visualización.
+
+proposito:Adaptación a dispositivos móviles
+evaluacion: util pero se cambiaron palabras 
