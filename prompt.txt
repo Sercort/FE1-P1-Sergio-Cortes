@@ -1,0 +1,39 @@
+prompt: etapa inicial 
+quiero que realices una pagina básica HTML,CSS la pagina debe ser funcional
+
+1. Versión inicial
+Construye una primera versión del sitio que incluya:
+encabezado pie de pagina y todo lo que se pide a continuación 
+
+
+nombre del evento:
+juega en linea 
+descripción general:
+tu elijes a tu contrincante si eres capas de ganarle una partida 
+
+una estructura básica (secciones):
+
+una zona destacada (encabezado o presentación principal):
+ que seria footer y navbar 
+
+proposito: creacion de pagina inicial 
+eveluacion:util 
+
+prompt:Mejora visual
+El cliente considera que el sitio es funcional, pero necesita una mejor presentación.
+Debe: ser mas atractivo visualmente la pagina ser llamativa
+•
+mejorar el diseño visual,
+
+realizar una actualización de pagina que sea un estilo mas gamer el sitio web
+
+aplicar estilos CSS más trabajados,
+
+que sea mas atractivo a la vista del usuario
+
+mejorar la distribución del contenido.
+
+proposito: mejorar la visualizacion de la pagina 
+ 
+evaluacion: util
+
